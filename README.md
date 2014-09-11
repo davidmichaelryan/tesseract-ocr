@@ -1,3 +1,6 @@
+Needed a place to host the heroku buildpack, since no where else was working well
+===========================
+
 heroku-buildpack-tesseract
 ===========================
 Added the libraries to use Tesseract on Heroku
